@@ -1,3 +1,3 @@
-##this is a sample for markdown file 
+## this is a sample for markdown file 
 
 **test markdown file**
